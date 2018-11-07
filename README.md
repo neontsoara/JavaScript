@@ -11,5 +11,5 @@
 - JavaScript
 
 -- live link --
-https: 
+https://neontsoara.github.io/JavaScript/.
 
